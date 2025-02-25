@@ -61,4 +61,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Vague prompt - What are taxes?
 Improved prompts - what kind of taxes does a salaried employee have to pay every month?
 
-The improved promppt provides a definite answer to a defined question as opposed to a general explanation of all types of taxes, both relevant and irrelevant 
+The improved promppt provides a definite answer to a defined question as opposed to a general explanation of all types of taxes, both relevant and irrelevant    
